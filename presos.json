@@ -1,5 +1,17 @@
 [
     {
+        "name": "Spring Update in 2019",
+        "href": "https://docs.google.com/presentation/d/1lZqm_-4NeDOjYRWDhV75eDC0XpR6CrijyW8W5MVq6ws",
+        "date": "2019-11-23",
+        "conference": "JJUG CCC 2019 Fall"
+    },
+    {
+        "name": "Pack to the Future",
+        "href": "https://docs.google.com/presentation/d/1rzaxReQ92WaWI24v-GsTwjtLCMq2YaFSTl9t6SEjPxQ",
+        "date": "2019-11-15",
+        "conference": "SpringOne Platform 2019報告会"
+    },
+    {
         "name": "PAS(Cloud Foundry)だと〇〇〇ができない...? 〜 Cloud Foundryにまつわる10つの誤解",
         "href": "https://docs.google.com/presentation/d/1_5px0UB0k7USS71xVnn6XgU1eArZ__Ee_eYmxkj-XcE",
         "date": "2019-07-10",
