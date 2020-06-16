@@ -1,5 +1,11 @@
 [
     {
+        "name": "Deep dive into Spring Boot 2.3",
+        "href": "https://docs.google.com/presentation/d/1rPM00F3ptJ3m9UHNrdTx2ZPrBoecb4Wca0GujfViBP0/edit?usp=sharing",
+        "date": "2020-06-16",
+        "conference": "JSUG勉強会"
+    },
+    {
         "name": "Pivotal Application Serviceの紹介 - \"Application Platform\"を使おう -",
         "href": "https://docs.google.com/presentation/d/1kifBmt8aY0KEeyF6CxUp9Gcxb8UcegkRO76cb_I4H-w/edit",
         "date": "2020-01-01",
