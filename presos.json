@@ -1,5 +1,11 @@
 [
     {
+        "name": "SpringOne 2020 Recap",
+        "href": "https://docs.google.com/presentation/d/1ogRAeCIbQtUEw-j6p1TXEHBldkuymOqGROgdkjZRzGI/edit?usp=sharing",
+        "date": "2020-09-25",
+        "conference": "JSUG勉強会"
+    },
+    {
         "name": "Deep dive into Spring Boot 2.3",
         "href": "https://docs.google.com/presentation/d/1rPM00F3ptJ3m9UHNrdTx2ZPrBoecb4Wca0GujfViBP0/edit?usp=sharing",
         "date": "2020-06-16",
