@@ -1,5 +1,11 @@
 [
     {
+        "name": "Spring ❤️ Tanzu 〜 Kubernetes に対応した Java フレームワーク Spring Boot の最新事情",
+        "href": "https://vmworld.jp/program/modernapps/AP1167",
+        "date": "2020-11-10",
+        "conference": "VMworld 2020 Japan"
+    },
+    {
         "name": "SpringOne 2020 Recap",
         "href": "https://docs.google.com/presentation/d/1ogRAeCIbQtUEw-j6p1TXEHBldkuymOqGROgdkjZRzGI/edit?usp=sharing",
         "date": "2020-09-25",
