@@ -1,5 +1,17 @@
 [
     {
+        "name": "What's New in Spring 5.3 and Spring Boot 2.4",
+        "href": "https://docs.google.com/presentation/d/111ePUTXHwFqO-DW_8np1RRqsPtrF7rVnZhocfqOLgFk/edit#slide=id.g8294c00475_0_0",
+        "date": "2020-12-17",
+        "conference": "Spring Fest 2020"
+    },
+    {
+        "name": "今こそ知りたいSpringエコシステム",
+        "href": "https://docs.google.com/presentation/d/1kadTi0yG-_tKQ5cR7nyE4BBmdDOnEVXUmkncZueZgv8/edit#slide=id.p",
+        "date": "2020-12-17",
+        "conference": "Spring Fest 2020"
+    },
+    {
         "name": "Spring ❤️ Tanzu 〜 Kubernetes に対応した Java フレームワーク Spring Boot の最新事情",
         "href": "https://vmworld.jp/program/modernapps/AP1167",
         "date": "2020-11-10",
