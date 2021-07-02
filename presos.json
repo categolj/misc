@@ -1,5 +1,17 @@
 [
     {
+        "name": "YAVIの紹介",
+        "href": "https://docs.google.com/presentation/d/1aw5cXqTxvMbBvTUU4TiF2oTUkG8orDujA5IRQGtIDiw/edit?usp=sharing",
+        "date": "2021-07-02",
+        "conference": "JSUG勉強会"
+    },
+    {
+        "name": "Spring Nativeの紹介",
+        "href": "https://docs.google.com/presentation/d/1yLNTffctZQd-42FmYNNSeQ5PU9MugO26qtIrVf2FGTA/edit?usp=sharing",
+        "date": "2021-07-02",
+        "conference": "JSUG勉強会"
+    },
+    {
         "name": "yttでYAML王に俺はなる!",
         "href": "https://docs.google.com/presentation/d/1FYbzsli4x9YJvNefbKQ8-NR3VWyC5Ou8WhKF32Cy8b4/edit?usp=sharing",
         "date": "2021-03-12",
