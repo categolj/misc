@@ -1,5 +1,11 @@
 [
     {
+        "name": "Learning RSocket Using RSC",
+        "href": "https://springone.io/2021/sessions/learning-rsocket-using-rsc",
+        "date": "2021-09-02",
+        "conference": "SpringOne 2021"
+    },
+    {
         "name": "YAVIの紹介",
         "href": "https://docs.google.com/presentation/d/1aw5cXqTxvMbBvTUU4TiF2oTUkG8orDujA5IRQGtIDiw/edit?usp=sharing",
         "date": "2021-07-02",
