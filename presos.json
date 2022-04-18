@@ -1,5 +1,11 @@
 [
     {
+        "name": "Tanzu Application PlatformでDeveloperを楽にしよう ~ これがVMwareが考える新しいPlatform",
+        "href": "https://drive.google.com/drive/u/0/folders/1DTXJBgQMBpSp2ZIEop9kNFIEcPicqCIt",
+        "date": "2022-02-25",
+        "conference": "PaaS勉強会 - k8sを便利にするらしいTanzu Application Platformについて教えてください!"
+    },
+    {
         "name": "Cloud Native Buildpacksで作る至高のコンテナイメージ for Spring Boot~ おそらくあなたの知らないBuildpack活用法 ~",
         "href": "https://docs.google.com/presentation/d/1OL6cRu2nw0Btv2nTnxfB8JpsoBkNSPbjcEQ-wFNvbVc/edit?usp=sharing",
         "date": "2021-12-03",
