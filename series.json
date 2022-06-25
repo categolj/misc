@@ -1,7 +1,7 @@
 [
-    {"name": "Spring Boot and Cloud Native Buildpacks Hands-on Lab (日本語)", "href":"https://spring-boot-cnb-hol.apps.pcfone.io"},
-    {"name": "Spring Boot and Cloud Native Buildpacks Hands-on Lab (English)", "href":"https://spring-boot-cnb-hol-en.apps.pcfone.io"},    
-    {"name": "VMware Tanzu Application Service (Cloud Foundry) for VMs Hands-on Lab資料", "href": "https://tas-for-vms-hol.apps.pcfone.io"},
+    {"name": "Spring Boot and Cloud Native Buildpacks Hands-on Lab (日本語)", "href":"https://docs.google.com/document/d/1nV8tvTBJwuA5uNemyJPOeP_oBi-GmjA9ZQHgESRiY6Y/edit#heading=h.2pcewfgo05tv"},
+    {"name": "Spring Boot and Cloud Native Buildpacks Hands-on Lab (English)", "href":"https://docs.google.com/document/d/1WFzHkkzH8jPbakyZ7SW0YGQQO-Qmj8efRT0_nOYpRUo/edit"},    
+    {"name": "VMware Tanzu Application Service (Cloud Foundry) for VMs Hands-on Lab資料", "href": "https://docs.google.com/document/d/1bNd_n7fOyV1Axbi6AlLnhjyl-_PJkRXXd2h7jgujNEw/edit#heading=h.2pcewfgo05tv"},
     {"name": "(旧)Cloud Foundryハンズオン資料", "tag": "Cloud Foundry Handson"},
     {"name": "Concourseハンズオン資料", "href": "https://docs.google.com/document/d/1FBYi7oxCGqnEtQx5CgQ6CvHpKawjwbG1pGkxFdNmcmo"},
     {"name": "Kubernetesハンズオン資料", "tag": "Kubernetes Handson"},
