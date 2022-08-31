@@ -1,5 +1,11 @@
 [
     {
+        "name": "面倒なことはK8sにさせよう 〜kapp controllerによる宣言的なデプロイとパッケージ管理〜",
+        "href": "https://docs.google.com/presentation/d/1mxsONks4IoQqEQ37YBPNS4hkKa71ScfsTHGt1odyMVc",
+        "date": "2022-06-27",
+        "conference": "Cloud Native Operator Days Tokyo 2022"
+    },
+    {
         "name": "Tanzu Application PlatformでDeveloperを楽にしよう ~ これがVMwareが考える新しいPlatform",
         "href": "https://drive.google.com/drive/u/0/folders/1DTXJBgQMBpSp2ZIEop9kNFIEcPicqCIt",
         "date": "2022-02-25",
