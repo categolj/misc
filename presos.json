@@ -1,5 +1,11 @@
 [
     {
+        "name": "5年ぶりのメジャーアップデート! Spring Framework 6 & Spring Boot 3",
+        "href": "https://docs.google.com/presentation/d/1KiSwrc7SYqKv9ggjTj2DDHmZT-bOzEhXADRZt38eb0w/edit#slide=id.p",
+        "date": "2022-11-27",
+        "conference": "JJUG CCC 2022 Fall"
+    },
+    {
         "name": "面倒なことはK8sにさせよう 〜kapp controllerによる宣言的なデプロイとパッケージ管理〜",
         "href": "https://docs.google.com/presentation/d/1mxsONks4IoQqEQ37YBPNS4hkKa71ScfsTHGt1odyMVc",
         "date": "2022-06-27",
