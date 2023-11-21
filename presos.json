@@ -1,5 +1,11 @@
 [
     {
+        "name": "Virtual Threads! Checkpoint Restore! Javaの進化に対応するSpring Framework 6.1 / Spring Boot 3.2の注目機能紹介",
+        "href": "https://docs.google.com/presentation/d/17RdIx4ysrebxOTrGrBl2pr7yn9-T2krhyi9833C8pBE/edit#slide=id.p",
+        "date": "2023-11-11",
+        "conference": "JJUG CCC 2023 Fall"
+    },
+    {
         "name": "Spring Boot の最新情報ご紹介 (3.0 / 3.1 の新機能など)",
         "href": "https://docs.google.com/presentation/d/1wKLBnn-ViqA9SH1FB_uMP0Qotg6oLIoDuYO_TBab1m0/edit?usp=sharing",
         "date": "2023-04-26",
