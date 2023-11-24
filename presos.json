@@ -1,5 +1,11 @@
 [
     {
+        "name": "開発者としてアプリをデプロイしたい、継続的に 〜 Tanzu Application Platform でデプロイを加速させよう",
+        "href": "https://github.com/making/VMware-Explore-2023-Tokyo_MC31103",
+        "date": "2023-11-14",
+        "conference": "VMware Explore 2023 Tokyo"
+    },
+    {
         "name": "Virtual Threads! Checkpoint Restore! Javaの進化に対応するSpring Framework 6.1 / Spring Boot 3.2の注目機能紹介",
         "href": "https://docs.google.com/presentation/d/17RdIx4ysrebxOTrGrBl2pr7yn9-T2krhyi9833C8pBE/edit#slide=id.p",
         "date": "2023-11-11",
